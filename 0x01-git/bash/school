@@ -1,2 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "School""
+=======
+echo "SchoolZZ:q
+#!/bin/bash
+echo "The Schoo is open!"
+>>>>>>> update_script
