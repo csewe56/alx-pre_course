@@ -1,1 +1,1 @@
-My first readme
+Economist and a researcher
