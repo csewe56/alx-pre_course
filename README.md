@@ -1,1 +1,1 @@
-Economist and a researcher
+this is main directory read me file
